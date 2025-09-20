@@ -1,7 +1,7 @@
 
 # Hi there, I'm Yash Tambakhe! 👋  
 
-🚀 Fullstack Developer | Cloud Enthusiast | AI Explorer  
+## 🚀 **Fullstack Software Engineer | Cloud Enthusiast | AI Explorer**
 
 ---
 
@@ -10,15 +10,6 @@
 - 💻 I build scalable web apps, cloud infra, and backend services.  
 - 🔭 Current focus: small, fast production services, distributed systems, and AI-driven tooling.  
 - ⚡ I prefer clean code, strong tests, and pragmatic design.
-
----
-
-## 🔥 Featured projects
-- **AI Personal Task Prioritizer** — Full-stack AI task management app (FastAPI + JS) that prioritizes daily tasks using Groq API.  
-- **Chat Application** — Secure real-time messaging with authentication and WebSocket-based delivery. Built for reliable low-latency messaging.  
-- **Classwork Tracker Web App** — Full-stack task management app (React + Express). Helps students track assignments, deadlines, and completion status.  
-- **Scalable Deployment (AWS + Terraform)** — Infrastructure-as-code for production deployment: automated provisioning, load balancing, and repeatable CI/CD.  
-- **Movie Website** — Responsive UI showcasing trending movies and details. Good demo of UI/UX and API integration.  
 
 ---
 
@@ -33,6 +24,16 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
   
+---
+
+## 🔥 Featured projects
+- **AI Personal Task Prioritizer** — Full-stack AI task management app (FastAPI + JS) that prioritizes daily tasks using Groq API.  
+- **Chat Application** — Secure real-time messaging with authentication and WebSocket-based delivery. Built for reliable low-latency messaging.  
+- **Classwork Tracker Web App** — Full-stack task management app (React + Express). Helps students track assignments, deadlines, and completion status.  
+- **Scalable Deployment (AWS + Terraform)** — Infrastructure-as-code for production deployment: automated provisioning, load balancing, and repeatable CI/CD.  
+- **Movie Website** — Responsive UI showcasing trending movies and details. Good demo of UI/UX and API integration.
+    
+📌 *More projects on my [GitHub](https://github.com/yasshh17?tab=repositories)*
 ---
 
 ## 📊 GitHub stats & activity
