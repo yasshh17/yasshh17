@@ -50,7 +50,7 @@
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Tambakhe-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-tambakhe/)  
-[![Email](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=firefox)](https://yashtambakhe@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Tambakhe-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-tambakhe/)
+[![Email](https://img.shields.io/badge/Email-yashtambakhe@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashtambakhe@gmail.com) 
 
 ✨ *Let’s build something amazing together!* 🚀  
