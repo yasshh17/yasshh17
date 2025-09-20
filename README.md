@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 Featured projects (impact-focused)
+## 🔥 Featured projects
 - **AI Personal Task Prioritizer** — Full-stack AI task management app (FastAPI + JS) that prioritizes daily tasks using Groq API.  
 - **Chat Application** — Secure real-time messaging with authentication and WebSocket-based delivery. Built for reliable low-latency messaging.  
 - **Classwork Tracker Web App** — Full-stack task management app (React + Express). Helps students track assignments, deadlines, and completion status.  
@@ -48,5 +48,5 @@
 **LinkedIn:** [yash-tambakhe](https://www.linkedin.com/in/yash-tambakhe/)    
 
 💡 I love connecting with fellow developers, so feel free to reach out if you’d like to collaborate or just talk tech!  
-"""
+
 
