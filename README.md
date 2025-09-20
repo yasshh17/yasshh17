@@ -50,5 +50,3 @@
 💡 I love connecting with fellow developers, so feel free to reach out if you’d like to collaborate or just talk tech!  
 """
 
-Markdown(readme_with_ai_project)
-
