@@ -1,6 +1,4 @@
-from IPython.display import Markdown
 
-readme_with_ai_project = """
 # Hi there, I'm Yash Tambakhe! 👋  
 
 🚀 Fullstack Developer | Cloud Enthusiast | AI Explorer  
