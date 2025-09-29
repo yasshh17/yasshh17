@@ -11,6 +11,7 @@
 - 💻 I build scalable web apps, cloud infra, and backend services.  
 - 🔭 Current focus: small, fast production services, distributed systems, and AI-driven tooling.
 - ⚡ I prefer clean code, strong tests, and pragmatic design. 
+- 🤖 Making amazing AI projects that blend creativity with real world impact.
 
 ---
 
