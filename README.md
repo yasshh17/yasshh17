@@ -30,13 +30,15 @@
 
 ## 🔥 Featured Projects  
 
-- 🧠 **AI Personal Task Prioritizer** — Full-stack AI task management app (FastAPI + JS) that prioritizes tasks using Groq API.  
+- **Nyanta – AI Knowledge Assistant** — Built RAG chatbot (LangChain + Groq + Pinecone + Streamlit) converting PDFs into conversational knowledge with cited answers and <3s query latency.
 
-- 💬 **Chat Application** — Real-time messaging app with authentication & WebSocket delivery for low-latency communication.  
+- **AI Personal Task Prioritizer** — Full-stack AI task management app (FastAPI + JS) that prioritizes tasks using Groq API.  
 
-- 🎓 **Classwork Tracker Web App** — Full-stack app (React + Express) helping students manage assignments and deadlines.  
+- **Chat Application** — Real-time messaging app with authentication & WebSocket delivery for low-latency communication.  
 
-- ☁️ **Scalable Deployment (AWS + Terraform)** — Automated provisioning, load balancing, and CI/CD pipelines with Infrastructure-as-Code.  
+- **Classwork Tracker Web App** — Full-stack app (React + Express) helping students manage assignments and deadlines.  
+
+- **Scalable Deployment (AWS + Terraform)** — Automated provisioning, load balancing, and CI/CD pipelines with Infrastructure-as-Code.  
 
 📌 *More projects on my [GitHub](https://github.com/yasshh17?tab=repositories)*  
 
