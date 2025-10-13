@@ -25,8 +25,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
- 
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![LangChain](https://img.shields.io/badge/_LangChain-0.3-green)](https://langchain.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.39-FF4B4B)](https://streamlit.io/)
+
 ---
 
 ## 🔥 Featured Projects  
