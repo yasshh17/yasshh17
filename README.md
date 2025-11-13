@@ -45,24 +45,12 @@
 
 ## Featured Projects  
 
-### **[Vettan AI](https://github.com/yasshh17/vettan-ai)** — Enterprise-Grade Autonomous Research Agent
-Built production-ready AI research platform (Next.js + FastAPI + LangChain) with multi-agent system, real-time web search, and intelligent caching. Features voice mode, conversation threading, and <3s research latency. Deployed on Vercel + Railway.  
-**Tech:** TypeScript, Python, FastAPI, Next.js, Supabase, OpenAI, Tavily, Railway, Vercel
-
-### **Nyanta** — AI Knowledge Assistant  
-Built RAG chatbot (LangChain + Groq + Pinecone + Streamlit) converting PDFs into conversational knowledge with cited answers and <3s query latency.
-
-### **AI Personal Task Prioritizer**  
-Full-stack AI task management app (FastAPI + JS) that prioritizes tasks using Groq API.  
-
-### **Chat Application**  
-Real-time messaging app with authentication & WebSocket delivery for low-latency communication.  
-
-### **Classwork Tracker Web App**  
-Full-stack app (React + Express) helping students manage assignments and deadlines.  
-
-### **Scalable Deployment (AWS + Terraform)**  
-Automated provisioning, load balancing, and CI/CD pipelines with Infrastructure-as-Code.  
+- **Vettan – Enterprise-Grade Autonomous Research Agent** — Built production ready AI research platform with multi-agent system, real-time web search, and intelligent caching. Features voice mode, conversation threading, and <3s research latency.
+- **Nyanta – AI Knowledge Assistant** — Built RAG chatbot converting PDFs into conversational knowledge with cited answers and <3s query latency.
+- **AI Personal Task Prioritizer** — Full-stack AI task management app (FastAPI + JS) that prioritizes tasks using Groq API.  
+- **Chat Application** — Real-time messaging app with authentication & WebSocket delivery for low-latency communication.  
+- **Classwork Tracker Web App** — Full-stack app (React + Express) helping students manage assignments and deadlines.  
+- **Scalable Deployment (AWS + Terraform)** — Automated provisioning, load balancing, and CI/CD pipelines with Infrastructure-as-Code.    
 
 📌 *More projects on my [GitHub](https://github.com/yasshh17?tab=repositories)*  
 
