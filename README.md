@@ -57,12 +57,21 @@
 ---
 
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasshh17&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasshh17&layout=compact&theme=tokyonight&hide_border=true)  
 
----
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=yasshh17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasshh17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![](https://streak-stats.demolab.com/?user=yasshh17&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=yasshh17&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ## Connect With Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash_Tambakhe-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-tambakhe/)
 [![Email](https://img.shields.io/badge/Email-yashtambakhe@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashtambakhe@gmail.com) 
 
