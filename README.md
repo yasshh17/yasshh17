@@ -6,7 +6,7 @@
 ---
 
 ## About Me  
-- 🎓 MS in Information Systems @ Northeastern University (Graduating April 2025)  
+- 🎓 MS in Information Systems @ Northeastern University  
 - 💻 I build scalable web apps, cloud infra, and backend services.  
 - 🔭 Current focus: small, fast production services, distributed systems, and AI-driven tooling.
 - ⚡ I prefer clean code, strong tests, and pragmatic design. 
