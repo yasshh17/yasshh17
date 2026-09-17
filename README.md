@@ -1,7 +1,7 @@
 # Hi there, I'm Yash Tambakhe! 
 ![Profile Views](https://komarev.com/ghpvc/?username=yasshh17&color=blue)
 
-## **Fullstack Developer | Cloud Enthusiast | AI Explorer**
+## **Software Engineer · Building production AI agents and systems**
 
 ---
 
