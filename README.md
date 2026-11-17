@@ -45,12 +45,12 @@
 
 ## Featured Projects  
 
-- **Vettan – Enterprise-Grade Autonomous Research Agent** — Built production ready AI research platform with multi-agent system, real-time web search, and intelligent caching. Features voice mode, conversation threading, and <3s research latency.
-- **Nyanta – AI Knowledge Assistant** — Built RAG chatbot converting PDFs into conversational knowledge with cited answers and <3s query latency.
-- **AI Personal Task Prioritizer** — Full-stack AI task management app (FastAPI + JS) that prioritizes tasks using Groq API.  
-- **Chat Application** — Real-time messaging app with authentication & WebSocket delivery for low-latency communication.  
-- **Classwork Tracker Web App** — Full-stack app (React + Express) helping students manage assignments and deadlines.  
-- **Scalable Deployment (AWS + Terraform)** — Automated provisioning, load balancing, and CI/CD pipelines with Infrastructure-as-Code.    
+- **[Vettan](https://github.com/yasshh17/vettan-ai)** · [Live](https://vettan-ai.vercel.app): Research app that splits a question into 3–4 parallel web searches, ranks the results and streams a cited report. Open to the public, with Redis-shared rate limits, moderation, daily spend caps, PostgreSQL row-level security, Sentry and a 50-question benchmark. FastAPI, Next.js, PostgreSQL.
+- **[Purpose-bound authorization for AI agents](https://github.com/yasshh17/purpose-bound-auth)** (independent research): Travel-booking testbed comparing no authorization, role-based and purpose-bound access using signed task-bound tokens. Purpose-bound controls blocked 20/20 unauthorized attempts versus 10/20 for role-based, with 0/15 legitimate requests wrongly denied.
+- **[Azure-em](https://github.com/yasshh17/azure-em)** · [Live](https://azure-em.vercel.app): Claude tool-use agent for property management that chooses among 5 Pydantic-validated tools over tenant, lease, maintenance and vendor data (fictional dataset). Anthropic API, FastAPI, Next.js.
+- **[DistroIQ](https://github.com/yasshh17/Distroiq)** · [Live](https://distroiq.vercel.app): AI operations assistant prototype for distribution companies, with a RAG pipeline and streaming responses over simulated data.
+- **[Nyanta](https://github.com/yasshh17/nyanta)**: RAG chatbot that answers questions over your PDF, DOCX and TXT files and cites the source file and chunk for each answer. LangChain, Pinecone, Groq, Streamlit.
+- **[AWS deployment in Terraform](https://github.com/yasshh17/Scalable-Web-Application-Deployment-using-AWS-and-Terraform-)**: Web application infrastructure on AWS defined as code, with load balancing and a CI/CD pipeline.
 
 📌 *More projects on my [GitHub](https://github.com/yasshh17?tab=repositories)*  
 
